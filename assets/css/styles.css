@@ -3199,8 +3199,6 @@ body img { width: 100%; }
 @media (max-width: 575.98px) { .index .img { padding: 2px 35px; }
   .index .txt { padding: 15px 25px 5px; } }
 
-.index .txt { text-align: justify; }
-
 .edu .row:after { display: block; margin-top: 5px; content: ""; margin: 10px 10% 5px; width: 100%; border-bottom: 1px solid #dad9d9; }
 
 @media (max-width: 575.98px) { .edu .img { padding: 2px 50px; }
